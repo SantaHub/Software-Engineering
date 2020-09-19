@@ -67,13 +67,22 @@ Quality Assurance :
     - Quality control actions
     - Enable data availability to quantify quality.
 
-
 # CS 3
 
 Measuring Quality Attributes
     - identify main Attributes
     - identify sub Attributes
 
+Umbrella Activities : 
+    Activities to be executed on all generic activities.
+    - Software project tracking and control : allows manage any delay
+    - Risk management : Assess the risk that could affect the project quality
+    - Software quality assurance : Defines and conducts activities required to ensure software quality
+    - Technical reviews : Review to reduce bugs
+    - Measurement : process, project and product measurement needs to assist software fulfillment.
+    - Software configuration management : Manages effect of change through software process.
+    - Reusability Management : maximizing software reuse.
+    - Work product preparation : Work products like models, documents, logs.
 Generic framework Activities :
     - Communication
     - Planning
@@ -92,4 +101,35 @@ Software Process Models :
         - Informal approach to software process model
         - Emphasis on Adaptability
         - Minimal software engineering work products
-        - 
+
+Perspective Software Process Model :
+    - Waterfall : linear sequential model
+    - Incremental Process Model
+    - Evolutionary Process Model
+    - Unified Process for Object Oriented system
+
+Waterfall Model :
+    - Strict linear Model. Only forward arrows.
+    - Problem requirement is fully understood.
+    - Complex structures have well-defined systems.
+    - Reflects good engineering practices
+
+Incremental Process Model :
+    - Requirements are reasonably understood.
+    - provide limited Functionality to users quickly
+    - Refine and expand in later releases
+    - Deliver increments of software.
+    Adv :
+        - CUstomer Value due to easily releases
+        - Early increments : helps elicit requirements for later increments
+        - Low project failure risk
+        - highest priority system services
+        - Smaller teams could execute the model.
+
+Evolutionary Process Model :
+    - Requirements evolve as product progress
+    - Iterative model
+
+Prototyping Model :
+    - Poorly understood requirements
+    - Quick and dirty system 
