@@ -123,16 +123,98 @@ Agile Values :
 Refer T1 3. It has the differentiate box.
 
 12 Agile principles :
- - Satisfy customer
- - embrance change
- - frequent Delivery
- - Customer collaboration
- - Support and trust
- - F2F communication
- - Working Software
- - Sustainable Phases
- - Technical Excelence
- - keep it simple
- - self Organization
- - inspect and adapt
 
+- Satisfy customer
+- embrace change
+- frequent Delivery
+- Customer collaboration
+- Support and trust
+- Face-to-Face communication
+- Working Software
+- Sustainable Phases
+- Technical Excellence
+- keep it simple
+- self Organization
+- inspect and adapt
+
+
+# CS 3
+
+Motivated and Talented Individuals :
+  5th agile principle states Build project around motivated individuals.
+
+  Maslow's hierarchy of needs : Once basic needs are met out behavior will be driven by meeting higher-level needs.
+
+# CS 4 M4 
+
+CS 4 is waste of time. Checking T1 chap 7,8
+
+### Scrum
+
+- self - directed and self-organizing team
+- no external addition of work to an iteration, once chosen
+- daily stand-up meeting
+- usually 30 calender days iteration
+- demo to external stakeholders at end of each iteration
+- each iteration, client-driven adaptive planning
+
+Life cycle :
+
+- planning : vision, expectations and funding
+- Staging : more requirements, prioritize enough for 1st iteration
+- Development : implement system for the 1st release
+- Release : operational Deployment
+
+Workproducts, roles and Practices :
+  - Requirement : Product and release backlog
+  - Project Management : Backlog graph, sprint backlog, product & release backlog.
+
+Roles :
+  Customer : Product owner :
+    - create and prioritize product backlog
+  Development : Scrum Team :
+    - work on sprint backlog
+  Management : Scrum Master :
+    - 50% developer, not just management
+    - knows and reinforces the project and iteration vision and goals
+    - conducts sprint review (demos)
+  
+Practices : 
+  Requirements :
+    - pre-game planning, sprint planning, sprint review.
+  Design :
+    - high level design phase
+  Test and verification :
+    - sprint review
+  Project Management :
+    - daily scrum
+    - sprint, sprint planning
+  Configuration and change management environment:
+    - Daily Build
+
+Values :
+  Commitment : defined goal for an iteration is set by the scrum team
+  Focus : Team focus on stated goals and master removes blocks and resources, also review and brief result of iteration
+  Openness : Product backlog graph, velocity and priorities are open to the team.
+  Respect : Each member is respected and adopts the attitude of solving individual problems through group exploration.
+  Courage : Team has the courage to take responsibility for self-direction and self-management
+
+### Extreme Programming
+
+Emphasize collaboration, quick and early software creation, and skillful development practices.
+Founded on 4 values :
+  - communication
+  - simplicity
+  - feedback
+  - courage
+Has low ceremony scale, with feature summarized story cards.
+
+Practices :
+The planning game :
+  - User -stories
+  - exploration phase
+  - commitment phase
+  - Steering phase
+  Refactoring, pair programming, collective ownership. CI, CD, 40 hr week, on site customer, coding standards, informative workspace.
+
+### Test driven development 
