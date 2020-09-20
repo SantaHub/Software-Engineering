@@ -84,8 +84,14 @@ Umbrella Activities :
     - Reusability Management : maximizing software reuse.
     - Work product preparation : Work products like models, documents, logs.
 Generic framework Activities :
-    - Communication
-    - Planning
+    - Communication :
+        - Inception : establish Basic understanding
+        - Elicitation : identify objective of system
+        - Elaboration : refining requirements
+        - Negotiation : resolving conflicting Requirements
+        - specification : Writing down documents, creating models based on templates.
+        - Validation : assessing quality of the work products created.
+    - Planning :
     - Modeling
     - Construction
     - Deployment
@@ -163,3 +169,44 @@ Review process guideline :
     - Allocate resource and schedule time for review
     - training for all reviewers
     - review earlier reviews
+
+# M4
+
+Quality Function Deployment :
+    Goals :
+        - Prioritize spoken and unspoken customer wants and needs
+        - Translate needs into technical characteristics and design specification
+        - Build and deliver quality product or serivce by focusing towards customer satisfaction.
+
+    Helps to :
+        - understand new product requirements
+        - Design product Requirements
+        - Determine the process characteristics
+        - Control the manufacturing process
+        - To document the existing product specifications
+
+    House of Quality Provides :
+        - A requirement planning capability
+        - A tool for graphic and integrated thinking
+        - A means to capture and preserve engineering thought process
+        - means to Communicate the thought process to new members of QFD team
+        - inform management regarding any risks, needs of the customer or requirements.
+    Building house of quality :
+        1 identify the stakeholders (who) :
+            - consumer
+            - regulatory agencies
+            - manufacturing
+            - marketing/sales
+        2 Determine the customer requirements (what) :
+            - Safety
+            - Comfort
+            - light weight
+            - Looks attractive/stylish
+            - cost effective
+            - has bluetooth and speaker
+        3 Who vs What :
+            - Relative importance of the requirements.
+            - Priority Rating of a requirement = (priority/sum off priority of all requirements)* 100
+        4 How :
+            - set of engineering specification
+            
