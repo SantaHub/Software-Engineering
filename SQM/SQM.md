@@ -120,7 +120,7 @@ Incremental Process Model :
     - Refine and expand in later releases
     - Deliver increments of software.
     Adv :
-        - CUstomer Value due to easily releases
+        - Customer Value due to easily releases
         - Early increments : helps elicit requirements for later increments
         - Low project failure risk
         - highest priority system services
@@ -129,7 +129,37 @@ Incremental Process Model :
 Evolutionary Process Model :
     - Requirements evolve as product progress
     - Iterative model
+    Prototyping Model :
+        - Poorly understood requirements
+        - Quick and dirty system
 
-Prototyping Model :
-    - Poorly understood requirements
-    - Quick and dirty system 
+Spiral Model :
+    - Each phases of activity is done in iterationn.
+    - At end of each iteration the phases added or elimated.
+    - At end of iteration a small version of product is released.
+
+Managing Quality :
+    in SDLC : 
+        - Manage quality of the process used to create the work product :
+            - identify stakeholders
+            - create process workflow guidelines with associated checklist
+            - create process review guideline with associated checklist
+            - use available tools / techniques
+        - Manage quality of the work product during every phase :
+            - identify work product to be created
+            - define template for each work product
+            - create checklist to review the work product
+            - review work product created - create review process guideline
+            - use available tools/techniques.
+
+Review process guideline :
+    - review the product not the producer
+    - set agenda
+    - limit debate and rebuttal
+    - Enunciate problem areas, dont attempt to solve every problem
+    - take written notes
+    - limit participants and insist upon preparation
+    - develop checklist for each product to be reviewed.
+    - Allocate resource and schedule time for review
+    - training for all reviewers
+    - review earlier reviews
