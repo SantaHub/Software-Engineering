@@ -199,7 +199,9 @@ Values :
   Respect : Each member is respected and adopts the attitude of solving individual problems through group exploration.
   Courage : Team has the courage to take responsibility for self-direction and self-management
 
-### Extreme Programming
+# CS 4
+
+### Extreme Programming 
 
 Emphasize collaboration, quick and early software creation, and skillful development practices.
 Founded on 4 values :
@@ -217,4 +219,45 @@ The planning game :
   - Steering phase
   Refactoring, pair programming, collective ownership. CI, CD, 40 hr week, on site customer, coding standards, informative workspace.
 
-### Test driven development 
+### Test driven development
+
+Tests are defined before coding.
+unit test code -> code -> test -> refactor.
+
+# CS 5
+
+Lean : eliminate waste and maximize flow. It employs Value stream mapping, which map what activities provide the value.
+Lean Time : time from work requested to delivered.
+Cycle/Process/Throughput time : time spend working on the solution.
+
+7 principles :
+  Eliminate waste :
+    - Unnecessary code
+    - Starting more than can be completed.
+  Build Quality :
+    - Pair programming
+    - TDD
+    - Reduce context switches
+    - Automation
+  Create knowledge :
+    - Pair programming
+    - training
+  Defer commitment :
+    - dont make decision/commit until last minute to keep options open
+  Deliver Fast :
+    - build iteratively
+    - dont over engineer
+  Respect People :
+    - communicate proactively and encourage healthy conflict
+  Optimize code :
+    - value steam mapping
+    - system thinking
+  
+Agile Requirements :
+
+  Requirement Gathering :
+    - User stories are the main way to track information, is fundamental unit of product development in agile and enable rapid iteration.
+      - Scenario
+      - Acceptance criteria
+      - INVEST : independent , negotiable, valuable, estimatable, small and testable.
+      3C's : card conversation and Confirmation.
