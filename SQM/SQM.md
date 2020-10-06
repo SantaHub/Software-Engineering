@@ -2,7 +2,7 @@
 
 Books 
 
-# CS 1
+## CS 1
 
 Quality : Quality is how well a system functions, it varies with perspective.
     Functional view :
@@ -28,7 +28,7 @@ David Garwin's 5 views of Quality :
     - Product view : compared with general product standard
     - value-based view : how much valuable it is for the customer.
 
-# CS 2
+## CS 2
 
 Software Quality : An effective software process applied in a manner that creates a useful product that provides measurable value for those who producr it and those who use it.
 
@@ -75,7 +75,7 @@ Achieving Software Quality :
         - Quality control actions
         - Enable data availability to quantify quality.
 
-# CS 3
+## CS 3
 
 Measuring Quality Attributes
     - identify main Attributes
@@ -158,7 +158,7 @@ Spiral Model :
     - At end of each iteration the phases added or elimated.
     - At end of iteration a small version of product is released.
 
-# CS 4
+## CS 4
 
 Managing Quality in SDLC :
     in SDLC : 
