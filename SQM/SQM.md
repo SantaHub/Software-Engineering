@@ -7,13 +7,21 @@ Books
 Quality : Quality is how well a system functions, it varies with perspective.
     Functional view :
         - how well the functions works
-        - developers or users view
+        - developers or users view - Role based perspective
         - Quality at each requirement
     Non Functional view
         - Business view
         - How good the product attract revenue.
+        - Align with Quality Attributes :
+            - reliability
+            - availability
+            - Affordability
+            - usability
+            - maintainability
+            - Portability
+            - Testability
 
-David Garwin's 5 views :
+David Garwin's 5 views of Quality :
     - Transcendental View : Immediately recognizable but cannot explicitly define.
     - Users view : product fulfills user's view
     - Manufacturer's view : conforms or exceeds specification
@@ -34,38 +42,38 @@ McCall's SQ factors :
             Adaptability to new environments : Portability, Reusability and interoperability.
 
 Achieving Software Quality :
-    - Software engineering methods
-    - Project management techniques
-    - Quality Control
-    - Quality Assurance
+    - Software engineering methods : SDLC practices, Deployment, documentation 
+    - Project management techniques : Agile, estimation, planning, risk analysis
+    - Quality Control: makes sure work product meets its goal. docs, ASR models, reviews, test suits.
+    - Quality Assurance: establish infrastructure and make data available for analysis
 
-Software engineering Methods :
-    - Sound practices used through all phases of SDLC
-    - Completed understanding of the problem.
-    - Comprehensive design
-    - constructive code : applying best practices.
-    - comprehensive testing.
-    - Deployment strategies.
-    - Effective documentation
+    Software engineering Methods :
+        - Sound practices used through all phases of SDLC
+        - Completed understanding of the problem.
+        - Comprehensive design
+        - constructive code : applying best practices.
+        - comprehensive testing.
+        - Deployment strategies.
+        - Effective documentation
 
-Project management techniques : ( not much focused)
-    - time estimation
-    - risk analysis
-    - Human centric : keeping developers efficient.
+    Project management techniques : ( not much focused)
+        - time estimation
+        - risk analysis
+        - Human centric : keeping developers efficient.
 
-Quality Control :
-    - Have quality goals
-    - Intermediate products developed to contribute to final product :
-        SRS documentation
-        Use case diagram
-        Quality specification
-        code test review
+    Quality Control :
+        - Have quality goals
+        - Intermediate products developed to contribute to final product :
+            SRS documentation
+            Use case diagram
+            Quality specification
+            code test review
 
-Quality Assurance :
-    - Solid engineering methods
-    - Rational project management
-    - Quality control actions
-    - Enable data availability to quantify quality.
+    Quality Assurance :
+        - Solid engineering methods
+        - Rational project management
+        - Quality control actions
+        - Enable data availability to quantify quality.
 
 # CS 3
 
@@ -209,4 +217,13 @@ Quality Function Deployment :
             - Priority Rating of a requirement = (priority/sum off priority of all requirements)* 100
         4 How :
             - set of engineering specification
-            
+
+## mid sem exam important questions
+
+CS 7
+White box and black box testing : 1:20:00
+    Black Box : 
+        Boundary Value analysis :
+            Nominal 4n+1 test cases, n #of input parameters.
+            Robust  6n+1 test cases
+
