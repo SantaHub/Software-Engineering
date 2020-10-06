@@ -88,7 +88,7 @@ Software Engineering Process :
 Generic Process framework Activities :
     There generated activities arranged in different orders and executed with different rigor models different development processes.
     - Communication :
-        - Inception : establish Basic understanding
+        - Inception : establish Basic understanding. Use IEEE SRS template
         - Elicitation : identify objective of system
         - Elaboration : refining requirements
         - Negotiation : resolving conflicting Requirements
@@ -168,8 +168,8 @@ Managing Quality in SDLC :
             - create process review guideline with associated checklist
             - use available tools / techniques
         - Manage quality of the work product during every phase :
-            - identify work product to be created
-            - define template for each work product
+            - identify work product to be created : Usage scenario, Function and feature lists, requirement models, specification documents.
+            - define template for each work product : IEEE SRS template
             - create checklist to review the work product
             - review work product created - create review process guideline
             - use available tools/techniques.
@@ -225,6 +225,12 @@ Quality Function Deployment :
             - Priority Rating of a requirement = (priority/sum off priority of all requirements)* 100
         4 How :
             - set of engineering specification
+    House of quality :
+        Roof : For technical understand relation between requirements.
+            - ve relationship : requirement are inversely related.
+            + ve relationship : direct related
+            blank             : no relations
+
 
 ## mid sem exam important questions
 
@@ -237,3 +243,5 @@ White box and black box testing : 1:20:00
 
 CS 4 
 Determining development process model question : 00:43:00
+House of quality : 1:37:00 
+    10 marks numerical sure!
