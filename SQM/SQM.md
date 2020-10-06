@@ -81,17 +81,12 @@ Measuring Quality Attributes
     - identify main Attributes
     - identify sub Attributes
 
-Umbrella Activities : 
-    Activities to be executed on all generic activities.
-    - Software project tracking and control : allows manage any delay
-    - Risk management : Assess the risk that could affect the project quality
-    - Software quality assurance : Defines and conducts activities required to ensure software quality
-    - Technical reviews : Review to reduce bugs
-    - Measurement : process, project and product measurement needs to assist software fulfillment.
-    - Software configuration management : Manages effect of change through software process.
-    - Reusability Management : maximizing software reuse.
-    - Work product preparation : Work products like models, documents, logs.
-Generic framework Activities :
+Software Engineering Process :
+    - framework of tasks that are required to build high-quality software.
+    - The process is adopted and changed based on requirement though the basic steps are same. 
+
+Generic Process framework Activities :
+    There generated activities arranged in different orders and executed with different rigor models different development processes.
     - Communication :
         - Inception : establish Basic understanding
         - Elicitation : identify objective of system
@@ -104,10 +99,21 @@ Generic framework Activities :
     - Construction
     - Deployment
 
+Umbrella Activities : 
+    Activities to be executed on all generic framework activities.
+    - Software project tracking and control : allows manage any delay
+    - Risk management : Assess the risk that could affect the project quality
+    - Software quality assurance : Defines and conducts activities required to ensure software quality
+    - Technical reviews : Review to reduce bugs
+    - Measurement : process, project and product measurement needs to assist software fulfillment.
+    - Software configuration management : Manages effect of change through software process.
+    - Reusability Management : maximizing software reuse.
+    - Work product preparation : Work products like models, documents, logs.
+
 Software Process Models :
     Perspective process model :
         - Detailed execution of 5 generic Activities
-        - intented to make projects more manageable
+        - intended to make projects more manageable
         - better cost estimates
         - achieve required project schedule and quality
         - Carry out process more systematically.
@@ -152,7 +158,9 @@ Spiral Model :
     - At end of each iteration the phases added or elimated.
     - At end of iteration a small version of product is released.
 
-Managing Quality :
+# CS 4
+
+Managing Quality in SDLC :
     in SDLC : 
         - Manage quality of the process used to create the work product :
             - identify stakeholders
@@ -227,3 +235,5 @@ White box and black box testing : 1:20:00
             Nominal 4n+1 test cases, n #of input parameters.
             Robust  6n+1 test cases
 
+CS 4 
+Determining development process model question : 00:43:00
