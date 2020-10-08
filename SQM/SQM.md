@@ -226,11 +226,21 @@ Quality Function Deployment :
         4 How :
             - set of engineering specification
     House of quality :
+        body : customer requirement vs technical requirement.
+            weight of the relationship is mapped using target, circle, triangle or blank
+            target : 9; strong relationship
+            circle : 3; Medium relationship
+            triangle : 1; weak relationship
+            blank : no relationship
         Roof : For technical understand relation between requirements.
             - ve relationship : requirement are inversely related.
             + ve relationship : direct related
             blank             : no relations
-
+        Comparative assessment : how each requirement relate with competitors 
+            1 - 5 scale.
+        importance : sum of all (priority percentage * relationship weight) for each technical requirement.
+        relative importance : importance / sum(importance) 
+        Technical spec : units, our spec, competitors spec
 
 ## mid sem exam important questions
 

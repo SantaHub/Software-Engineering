@@ -27,7 +27,7 @@ Kruchten 4+1 view :
 Quality Attributes 
 ISO 25010 define QA as : functional Suitability, Reliability, Performance Efficiency, Usability, Maintainability, Security, Compatibility, Portability.
      Function Attributes : 
-        - Requirements specified by the skakeholders
+        - Requirements specified by the stakeholders
 
     Non Functional Attributes :
         - Other qualities like Maintainability, stability, adaptability etc which makes the system acceptable.
