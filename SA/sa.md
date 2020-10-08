@@ -33,7 +33,7 @@ ISO 25010 define QA as : functional Suitability, Reliability, Performance Effici
         - Other qualities like Maintainability, stability, adaptability etc which makes the system acceptable.
 
 Formula for calculating downtime. 
-    Availability = 99.9% => 0.1% unavailable => 0.1*365 = 36.5 days down in a year
+    Availability = 99.9% => 0.1% unavailable => (0.1/100)*365 = 0.365 days down in a year
 
 Hot and Warm Standby :
     Hot Standby : the Standby system is constantly updated and Standby system quickly takes over on failing
