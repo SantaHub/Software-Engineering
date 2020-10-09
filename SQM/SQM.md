@@ -85,6 +85,13 @@ Software Engineering Process :
     - framework of tasks that are required to build high-quality software.
     - The process is adopted and changed based on requirement though the basic steps are same. 
 
+Process flow :
+    Defines how framework activities and umbrella activities are organized
+        - linear process flow : 5 framework activities one after another
+        - iterative process flow : one or more activities repeat
+        - parallel process flow : one or more activities in parallel
+        - Evolutionary process flow : circular manner, producing software at each cycle.
+
 Generic Process framework Activities :
     There generated activities arranged in different orders and executed with different rigor models different development processes.
     - Communication :
@@ -226,6 +233,8 @@ Quality Function Deployment :
         4 How :
             - set of engineering specification
     House of quality :
+        Priority Rating :
+        Priority percentage : Priority Rating *100 / sum(priority rating)
         body : customer requirement vs technical requirement.
             weight of the relationship is mapped using target, circle, triangle or blank
             target : 9; strong relationship
@@ -242,16 +251,56 @@ Quality Function Deployment :
         relative importance : importance / sum(importance) 
         Technical spec : units, our spec, competitors spec
 
+## CS 6
+
+Software Review
+
+Generic inspection process :
+    - planning and preparation
+    - inspection or collection
+    - Correction and follow-up
+
 ## mid sem exam important questions
 
-CS 7
+## Slides
+L1 : 
+    - Quality Role based perspective : 19
+    - David Garwin Views of quality : 20
+L2 : 
+    - McCall Software Quality Factors : 9
+    - Measuring quality Factors : 12
+    - Achieving Software Quality : 19
+    - characteristics of software : ~22
+L3 :
+    - Layered Technology Software Engineering : 15
+    - Generic Process Framework : 16
+    - Umbrella Activities : 17
+    - Software Process Models : 19
+L4 :
+    - House of quality : 6
+L5 :
+    - Phases of testing process : 3
+    - Testing Software Quality : 10
+L6 :
+    - General Review Process : 5
+    - Formal Review : 7
+    - Defect removal : 9
+    - Code inspection/walkthrough
+L7 :
+    - Managing Quality : SDLC : 2
+    - Review Process guideline : 4
+    - Generic Framwork Activities : 5
+
+## CS 7
+
 White box and black box testing : 1:20:00
-    Black Box : 
+    Black Box :
         Boundary Value analysis :
             Nominal 4n+1 test cases, n #of input parameters.
             Robust  6n+1 test cases
 
-CS 4 
+CS 4
 Determining development process model question : 00:43:00
 House of quality : 1:37:00 
     10 marks numerical sure!
+
