@@ -281,6 +281,9 @@ L4 :
 L5 :
     - Phases of testing process : 3
     - Testing Software Quality : 10
+    - Levels of testing : 12
+    - Types of testing : 14
+    - Boundary Value analysis : 19
 L6 :
     - General Review Process : 5
     - Formal Review : 7
@@ -289,7 +292,7 @@ L6 :
 L7 :
     - Managing Quality : SDLC : 2
     - Review Process guideline : 4
-    - Generic Framwork Activities : 5
+    - Generic Framework Activities : 5
 
 ## CS 7
 

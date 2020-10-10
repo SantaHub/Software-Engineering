@@ -124,3 +124,37 @@ VM migration for maintance :
     Cold/regular migration : VMs are turned off. Data is migrated to new host and new host is started.
     Live migration : VMs are configured in data/network sharing. RL 3.5 9:00-15:00
         Challenges : lots of state in memory
+
+
+## Slides 
+
+CS1 :
+    - What is cloud computing : 6
+    - 3-4-5 Rule : 11
+    - Cloud providers characteristics : 25
+
+CS2 :
+    - Datacenter : 30
+    - Difference between cloud deployment models, public private hybrid community : 39
+    - Virtualization & Types of virtualization : 42
+    - Hypervisor & design goals : 52
+    - advantages, issues and applications of virtualization : 74
+    
+    - Docker : 84
+
+    - Iaas : 103
+    - S3 : 115
+    - SimpleDB : 124
+    - EC2 : 130
+    - EBS : 139
+    - Features of IaaS : 145
+    - VM provisioning : 154
+    - Migration : 159
+    - OpenStack : 170
+
+    - Docker : 195
+    - LXC and LXD : 198
+    - Virtualization and cloud computing : 199
+    - Cloud Orchestration Techniques : 202
+    - Orchestration and automation : 205
+    - Orch Tools : 210
