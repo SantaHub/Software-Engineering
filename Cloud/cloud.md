@@ -154,7 +154,17 @@ CS2 :
 
     - Docker : 195
     - LXC and LXD : 198
-    - Virtualization and cloud computing : 199
+    - Diff virtualization and cloud computing : 199
     - Cloud Orchestration Techniques : 202
     - Orchestration and automation : 205
     - Orch Tools : 210
+
+    Module 5 Slides
+    - PaaS : 3
+    - Fabric controller : 19
+    - SQL Azure : 21
+    - AppFabric : 22
+    - Azure programming model : 24
+    - storage servce : 27
+    - SaaS ApplicationArchitecture : 55
+    - 

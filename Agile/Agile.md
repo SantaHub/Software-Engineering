@@ -262,3 +262,61 @@ Agile Requirements :
       - Acceptance criteria
       - INVEST : independent , negotiable, valuable, estimatable, small and testable.
       3C's : card conversation and Confirmation.
+
+## Slides
+
+Waterfall : 12
+Agile Project Management : 24
+Waterfall Vs Agile : 34
+Agile Project Framework 
+  Agile Delivery Framework : 50
+Agile Benefits : 55
+
+Project DLC
+  Predictive PDLC : 66
+  Iterative  : 67
+  incremental : 69
+  Agile/adpative : 70
+Spiral Model : 74
+Rational Unified Process : 75
+Early Agile methods : 77
+Agile Mindset : 79
+Agile Manifesto : 84
+
+12 Agile principles : 103
+Emergent Design : 116
+Interpersonal Skills : 121
+simplicity : 133
+
+Agile Methods 
+  scrum : 164
+  XP : 172
+  TDD : 187
+  Lean SD : 192
+  Value Stream mapping : 193
+  
+7 lean principles : 197
+Kanban : 206
+
+User story :
+  elements : 230
+story, Bug and constrains difference : 234
+Agile estimation :
+  Absolute estimation : 240
+  Relative Estimation : 241
+  Story point estimation : 245
+  Value Point : 254
+  Bang for the Buck or Priority : 256
+  Velocity : 258
+  Triangulation : 265
+  Ideal Time : 266
+
+Product Backlog : 324
+Agile Project Management Business Objectives : 328
+Agile Release Planning : 336
+Condition of satisfaction : 346
+Estimate user stories : 347
+
+Epic themes User storues : 391
+Wireframes : 398
+Personas : 399
