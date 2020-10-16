@@ -61,3 +61,22 @@ tactics ; 105
 
 Performance : 113
 Tactics : 117
+
+## slides CS 
+
+CDN : 103
+Protect system from variation : 112
+Rule engine : 114
+
+QA : 127
+ADD : 283
+Judiciary system : 286
+
+Layered Arch : 408
+Techniques in layered arch : 414
+Aspected oriented cross cutting : 429
+Techniques Datalayer : 433
+SSL : 449
+Logging : 450
+
+ATAM : 463
