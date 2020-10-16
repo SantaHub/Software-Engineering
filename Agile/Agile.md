@@ -320,3 +320,31 @@ Estimate user stories : 347
 Epic themes User storues : 391
 Wireframes : 398
 Personas : 399
+
+## Slide Agile.pdf
+
+Benefits of Agile : 17
+Basic Agile development : 25
+Agile Framework : 37
+Agile principle : 49
+
+SCRUM : 59
+XP : 71
+TDD : 79
+
+Agile requirements management : 87
+Requirement : 90
+product backlog : 91
+Effort estimatation : 93
+
+Agile Release Planning stages : 108
+Product backlog vs sprint backlog : 124
+user stories : 125
+Sprint Planning : 126
+Stakeholders : 127
+Personas : 128
+sprint backlog : 130
+Velocity planning : 131
+capacity planning : 132
+Release planning : 136
+Release plan, release schedule : 139

@@ -42,3 +42,22 @@ Hot and Warm Standby :
 Throughput and Latency :
     Throughput : how many packets per time.
     Latency : time between request and response 
+
+## Slides
+
+Quality Attributes : 44
+Quality Design Decisions : 51
+Usability : 55
+User Initiative and system response (cancel, undo, pause, font) : 58 
+Task, system, user model : 59
+Design Checklist : 61
+
+Availability : 64
+Availability tactics : 71
+Reliability Metrics : 94
+
+Modifiability : 103
+tactics ; 105
+
+Performance : 113
+Tactics : 117
