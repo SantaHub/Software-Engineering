@@ -61,11 +61,59 @@ Availability : 64
 Availability tactics : 71
 Reliability Metrics : 94
 
-Modifiability : 103
-tactics ; 105
+RL 5 :
+    Modifiability : 103
+    tactics ; 105
+    Performance : 113
+    Tactics : 117
 
-Performance : 113
-Tactics : 117
+RL6:
+    - Security : 2
+    - Security Tactics : 6
+    - Detect attacks : 7
+    - Testability : 19
+    - Testability Tactics ; 23
+    - Interoperatability : 35
+RL7:
+    - OODesign : 1
+    - UML : 19
+RL8 :
+    - UML : 1
+    - Agile : 13
+    - CRC : 17
+    - Unified Process : 24
+    - Unified 5 steps : Architecture Activities, Feature driven design, Feature to architecture, Use case model, 
+RL9 :
+    - Introduction to patterns : 1
+    - OO design principles : 6
+    - Layering Pattern : 22
+RL10 :
+    - Pipe and filter pattern : 1
+    - Blackboard architecture : 20
+RL11:
+    - Distributed systems : 1
+RL12:
+    - interactive systems
+RL13 :
+    - Adaptable systems
+RL14:
+    - Design patterns
+RL15 :
+    - Design Patterns, structural patterns, composite patterns
+RL16:
+    - Behaviour Pattern
+RL17 :
+    - Cloud computing paradigm
+RL18:
+    - Cloud computing architectural pattern
+RL19:
+    - Architecture and Requirements
+    - Requirement document, business goal, stakeholders : 8
+RL20 :
+    - Sequence diagram
+    - CC
+    - documenting Behaviour : 46
+
 
 ## slides CS 
 
@@ -85,3 +133,7 @@ SSL : 449
 Logging : 450
 
 ATAM : 463
+
+## Combined slides
+
+Software Architecture : 11
