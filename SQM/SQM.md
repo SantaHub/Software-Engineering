@@ -294,6 +294,35 @@ L7 :
     - Review Process guideline : 4
     - Generic Framework Activities : 5
 
+L8 :
+    - Specification- based testing : 2
+    - Decision Table : 5
+    - Code based Testing : 12
+    - Path Testing : 27
+        - cyclomatic
+L9 :
+    - Software testing summary : 2
+    - Levels of testing : V model : 3
+    - Integration Testing : 4
+    - Object Oriented Testing : 16
+    - System Testing : 38
+L10 :
+    - Achieving Software Quality : 1
+    - Software Quality Assurance : 2
+    - Product and process standards : 7
+    - Software Process Improvement : 8
+    - Maturity Model : 16
+L11:
+    - Six Sigma : 2
+        - definition : 9
+        - DMAIC : 15
+    - 7 Quality Control Tools : 22
+    - Cause and Effect Fishbone : 36
+    - Scatter Diagrams : 43
+    - Flow Charts : 47
+    - Run Charts : 50
+    - Control Charts: 52
+
 ## CS 7
 
 White box and black box testing : 1:20:00

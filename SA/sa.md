@@ -21,33 +21,38 @@ Kruchten 4+1 view :
     Architect/Integrator
     Development team
     + 1 => Use case
-
 ## CS2 
 
 Quality Attributes 
-ISO 25010 define QA as : functional Suitability, Reliability, Performance Efficiency, Usability, Maintainability, Security, Compatibility, Portability.
-     Function Attributes : 
-        - Requirements specified by the stakeholders
+ISO 25010 define QA as : 
+    System Quality : Availability, Modifiability, Performance, Security, Testability, Usability
+    Business Quality : Time to market, cost and benefit, project lifetime, targeted market, rollout schedule, Legacy integration.
+    Quality of architecture : conceptual integrity, correctness, completeness, buildability.
 
-    Non Functional Attributes :
-        - Other qualities like Maintainability, stability, adaptability etc which makes the system acceptable.
+Function Attributes : 
+- Requirements specified by the stakeholders
+
+Non Functional Attributes :
+- Other qualities like Maintainability, stability, adaptability etc which makes the system acceptable.
 
 Formula for calculating downtime. 
     Availability = 99.9% => 0.1% unavailable => (0.1/100)*365 = 0.365 days down in a year
 
 Hot and Warm Standby :
     Hot Standby : the Standby system is constantly updated and Standby system quickly takes over on failing
-    Warm Standby : The standby system is not constantly updated but takes over once the system stop processing events.
+    Warm Standby : The standby system is not constantly send heart beats. Warm system checks periodically and takes over if active server is down.
 
 Throughput and Latency :
     Throughput : how many packets per time.
     Latency : time between request and response 
 
-## Slides
+## Slides SA.pdf
 
 Quality Attributes : 44
 Quality Design Decisions : 51
+
 Usability : 55
+Usability tactics : 57
 User Initiative and system response (cancel, undo, pause, font) : 58 
 Task, system, user model : 59
 Design Checklist : 61
