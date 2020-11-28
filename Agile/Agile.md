@@ -378,3 +378,49 @@ Managing Quality and Risks in agile project:
 Agile Myths and pitfalls, ensuring agile sucess : 574
   Scaling Scrum : 577
   Distributed Agile Models : 581
+
+## Slide index
+
+L1 :
+  - traditional Software development Practices : 4
+  - Need for Agile Methods : 11
+  - Benefits of Agile Methods : 17
+L2:
+  - Iterative and incremental : 8
+  - Popular agile Methods : 14
+L3:
+  - Agile core values : 4
+L4:
+  - Scrum : 4
+  - Extreme Programming : 16
+  - TDD : 24
+L5:
+  - Product Requirement : 6
+  - Product backlog : 7
+  - Estimation : 8
+  - Prioritization : 13
+L6:
+  - Agile planning : 4
+  - Planning stages : 8
+  - Release : 18
+L7:
+  - Sprint planning : 4
+  - Velocity/capacity Planning : 11
+  - Release planning : 18
+L8:
+  - Scrum roles and Ceremonies : 6
+L9:
+  - Agile Metrics and tools: 4
+L10:
+  - ensuring Quality : 4
+  - Managing Risks in Agile : 8
+L11:
+  - Common mistakes : 4
+  - Agile Myths : 7
+  - Planning (waterfall vs Iterative vs Agile ): 9
+  - Distributed Agile : 14
+L12:
+  - 10 Agile sucess factors : 4
+  - 12 steps Managing change : 8
+  - Agile sucess metrics : 9
+  - Evolution of Agile : 12
