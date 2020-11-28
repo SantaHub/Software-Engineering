@@ -1,4 +1,5 @@
 # Agile
+
 Course ID : SE ZG544
 
 T1 : Agile and Iterative Development: A Manager's Guide
@@ -119,7 +120,7 @@ Agile Values :
 - individual and interaction
 - Customer collaboration
 - Responding to change
-- usable software 
+- usable software
 
 Refer T1 3. It has the differentiate box.
 
@@ -348,3 +349,32 @@ Velocity planning : 131
 capacity planning : 132
 Release planning : 136
 Release plan, release schedule : 139
+
+## Agile_Merged.pdf
+
+Agile Planning and Release Planning : 370
+  The Lean Product Process vs Agile : 374
+  characteristics of Large Scale Agile Product/Project Planning : 379
+  Product Development approach : 391
+  Agile Release Planning : 399
+
+Prioritization Techniques and Planning with User stories : 434
+  Planning with User stories : 454
+
+Scrum Iteration planning : 467
+8 Executing a Sprint : 501
+  Sprint Execution : 503
+
+Agile Metrics and Tools : 530
+  Metrics to Agile Team : 532
+  Measuring Agile performance : 538
+  Metrics data from Project Tracking system : 542
+
+Managing Quality and Risks in agile project:
+  Tradition Quality Management issues : 553
+  Agile approach : 554
+  Risk management : 563
+
+Agile Myths and pitfalls, ensuring agile sucess : 574
+  Scaling Scrum : 577
+  Distributed Agile Models : 581
