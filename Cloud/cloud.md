@@ -168,3 +168,45 @@ CS2 :
     - storage servce : 27
     - SaaS ApplicationArchitecture : 55
     - 
+
+## Slide indexes
+
+L1:
+    Cloud computing : 4,9
+    3-4-5 Rule : 10
+L2:
+    Virtualization : 3
+    Hypervisor : 8
+    CPU, Memory, IO Sharing : 12
+    Type of Virtualization : 17
+    Docker : 31
+L3:
+    IaaS : 3
+    AWS : 9
+    Openstack : 15
+    VM provisioning : 19
+    VM Migration : 24
+L4:
+    PaaS : 3
+    Windows Azure : 11
+L5:
+    SaaS : 3
+L6:
+    Virtual infrastructure Managers : 8
+    Virtual Machine Management Model : 11
+    OpenNebula : 14
+    OpenNebula architecture : 20
+    Private Cloud : 26
+    VM : 31
+    Hybrid cloud : 40
+L7:
+    High availability ; 3
+    Key Aspects of SLA : 5
+    Multitenancy : 20
+    Cloud security : 31
+    Multi-tenancy : 35
+    Taxonomy of fear : 36
+    Threat Model : 40
+L8:
+    Hadoop Features : 6
+    Map Reduce : 11
